@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func btnSend(_ sender: UIButton) {
-        lblHello.text = "Hello, " + txtName.text!
+        lblHello.text = "Happy weekend, " + txtName.text!
     }
     
 }
